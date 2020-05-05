@@ -3,6 +3,6 @@ languaje: node_js
 node_js:
     - stable
 install:
-    - yarn add
+    - yarn
 script:
     - yarn test
