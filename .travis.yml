@@ -1,8 +1,8 @@
 languaje: node_js
 
 node_js:
-    -stable
+    - stable
 install:
-    -yarn
+    - yarn add
 script:
     - yarn test
