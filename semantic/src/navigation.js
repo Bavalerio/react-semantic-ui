@@ -6,7 +6,7 @@ function NavigationBar() {
     <Menu pointing secondary>
       <Menu.Item icon="home" name="home" href="/somelink" />
       <Menu.Item icon="box" name="post" href="/somelink" />
-      <Menu.Item icon="address book" name="contact" href="somelink" />
+      <Menu.Item icon="address book" name="contact" href="/somelink" />
     </Menu>
   );
 }
